@@ -13,19 +13,19 @@ In order to run the program:
 
 HOW TO MOVE: 
 
-W- Forward
-A- Left
-S- Back
-D- Right
+W- Forward,
+A- Left,
+S- Back,
+D- Right,
 
-Q- Look Left
-E- Look Right
+Q- Look Left,
+E- Look Right,
 
-R- Move Up
-F- Move Down
+R- Move Up,
+F- Move Down,
 
-T- Look Up
-G- Look Down
+T- Look Up,
+G- Look Down,
 
 
 
